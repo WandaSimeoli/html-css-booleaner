@@ -1,8 +1,21 @@
-#logo {
+/* Inizio Logo */
+#img {
     width: 400px;
     height: 200px;
 }
-header {
+.logo {
     background-color:dodgerblue;
     background-image:url(/img/pattern.png);
 }
+/* Fine Logo */
+
+/* Inizio Sottotitolo */
+.sottotitolo {
+    color: gray;
+   margin: 1px;
+}
+.sottotitolo-azzurro {
+    color: dodgerblue;
+}
+/* Fine Sottotitolo */
+
