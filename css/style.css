@@ -12,10 +12,17 @@
 /* Inizio Sottotitolo */
 .sottotitolo {
     color: gray;
-   margin: 1px;
+    margin: 0%;
 }
 .sottotitolo-azzurro {
     color: dodgerblue;
 }
+.data {
+    margin-bottom: 20px;
+}
 /* Fine Sottotitolo */
+
+.giallo {
+    background-color: y;
+}
 
