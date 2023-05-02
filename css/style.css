@@ -17,12 +17,27 @@
 .sottotitolo-azzurro {
     color: dodgerblue;
 }
-.data {
+#data {
     margin-bottom: 20px;
 }
 /* Fine Sottotitolo */
 
+/* Paragrafo 1 */
 .giallo {
-    background-color: y;
+    background-color: yellow;
 }
+table {
+    width: 100%;
+}
+th {
+    text-align: left;
+    width: 50px;
+    background-color: cornflowerblue;
+    color: white;
+    font-weight:bold;
+}
+.azzurro {
+    background-color:lightblue;
+}
+
 
