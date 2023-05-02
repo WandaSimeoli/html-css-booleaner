@@ -1,0 +1,8 @@
+#logo {
+    width: 400px;
+    height: 200px;
+}
+header {
+    background-color:dodgerblue;
+    background-image:url(/img/pattern.png);
+}
