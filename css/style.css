@@ -26,6 +26,7 @@
 .giallo {
     background-color: yellow;
 }
+/* Inizio Tabella */
 table {
     width: 100%;
 }
@@ -38,6 +39,11 @@ th {
 }
 .azzurro {
     background-color:lightblue;
+}
+/* Fine Tabella */
+footer  {
+    color: gray;
+    font-weight: bold;
 }
 
 
